@@ -1,0 +1,12 @@
+/*CSS reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+body {
+  background-image: url(assets/move-forward.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
